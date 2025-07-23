@@ -1,0 +1,2 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"通过WiFi进行开锁解锁测试（直接关闭蓝牙）","110499","test_unlock_and_lock_via_wifi[3]","tests","Tue Jul 22 17:06:59 CST 2025","broken","Tue Jul 22 17:08:49 CST 2025","","test_lock_unlock","",""

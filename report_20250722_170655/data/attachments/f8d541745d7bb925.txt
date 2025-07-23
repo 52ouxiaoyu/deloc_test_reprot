@@ -1,0 +1,19 @@
+正在启动测试，平台: iOS, 设备: iphone_16_plus, 端口: 4726
+设备配置: {'platformName': 'iOS', 'appium:platformVersion': '18.3.1', 'appium:deviceName': 'iPhone 16 Plus', 'appium:udid': '00008140-001879EA0A8B001C', 'appium:bundleId': 'com.desman.desloc', 'appium:automationName': 'XCUITest', 'appium:xcodeSigningId': 'iPhone Developer', 'appium:showXcodeLog': True, 'appium:showIOSLog': True, 'appium:webDriverLaunchTimeout': 60000}
+正在连接 Appium 服务器 (端口: 4726)...
+成功连接到 Appium 服务器
+[2025-07-22 17:06:59][INFO] WiFi测试 - 直接关闭蓝牙
+[2025-07-22 17:07:01][INFO] 打开iOS设置应用
+[2025-07-22 17:07:03][INFO] 点击蓝牙设置选项
+[2025-07-22 17:07:04][INFO] iOS蓝牙已关闭
+[2025-07-22 17:07:06][INFO] 蓝牙已关闭，WiFi测试准备完成
+[2025-07-22 17:07:06][INFO] 开始WiFi模式测试
+[2025-07-22 17:07:06][INFO] WIFI模式滑动开关门测试，迭代次数：1
+[ERROR] 第 1 次点击设备 "IP16P测试设备" 失败: name 'TimeoutException' is not defined
+[ERROR] 第 2 次点击设备 "IP16P测试设备" 失败: name 'TimeoutException' is not defined
+[ERROR] 第 3 次点击设备 "IP16P测试设备" 失败: name 'TimeoutException' is not defined
+[2025-07-22 17:09:02][INFO] 打开iOS设置应用
+[2025-07-22 17:09:06][INFO] 成功找到蓝牙选项，使用定位器: //XCUIElementTypeStaticText[@name="Bluetooth"]
+[2025-07-22 17:09:07][INFO] 点击蓝牙设置选项
+[2025-07-22 17:09:12][INFO] iOS蓝牙已开启
+[2025-07-22 17:09:14][INFO] 蓝牙已恢复开启

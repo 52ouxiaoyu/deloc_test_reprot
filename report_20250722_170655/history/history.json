@@ -1,0 +1,1 @@
+{"d0db39d143b850b18f0e42f6a0752015":{"statistic":{"failed":0,"broken":1,"skipped":0,"passed":0,"unknown":0,"total":1},"items":[{"uid":"a8d367be9a35e68f","status":"broken","statusDetails":"Exception: 经过 3 次尝试后仍无法点击设备 \"IP16P测试设备\"","time":{"start":1753175219033,"stop":1753175329532,"duration":110499}}]}}
