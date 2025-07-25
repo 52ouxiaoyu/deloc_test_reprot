@@ -1,0 +1,32 @@
+[2025-07-25 09:37:12][INFO] 开始第 2 次循环测试
+[2025-07-25 09:37:12][INFO] 正在设置通道锁模式
+[INFO] 成功点击设备 "pixel9测试"
+[2025-07-25 09:37:36][INFO] 点击设置按钮
+[2025-07-25 09:37:39][INFO] 点击进入Passage Mode
+[2025-07-25 09:37:44][DEBUG] 开关元素selected属性: false
+[2025-07-25 09:37:44][INFO] 当前Passage Mode开关状态: 0
+[2025-07-25 09:37:44][INFO] 点击Passage Mode开关 - 开启模式
+[2025-07-25 09:38:04][DEBUG] Android开关selected属性: true, 转换后的值: 1
+[2025-07-25 09:38:04][INFO] Passage Mode switch toggled to 1
+[INFO] 成功点击设备 "pixel9测试"
+[2025-07-25 09:38:44][INFO] 点击设置按钮
+[2025-07-25 09:38:45][INFO] 点击进入Passage Mode
+[2025-07-25 09:38:50][INFO] 正在检查通道锁模式 - 设置
+[2025-07-25 09:38:56][INFO] Passage Mode switch found after restart
+[2025-07-25 09:38:56][INFO] Passage Mode设置成功并保持状态
+[2025-07-25 09:38:56][INFO] 正在取消通道锁模式
+[INFO] 成功点击设备 "pixel9测试"
+[2025-07-25 09:39:19][INFO] 点击设置按钮
+[2025-07-25 09:39:20][INFO] 点击进入Passage Mode
+[2025-07-25 09:39:25][DEBUG] 开关元素selected属性: true
+[2025-07-25 09:39:25][INFO] 当前Passage Mode开关状态: 1
+[2025-07-25 09:39:26][INFO] 点击Passage Mode开关 - 关闭模式
+[2025-07-25 09:39:56][DEBUG] Android开关selected属性: false, 转换后的值: 0
+[2025-07-25 09:39:56][INFO] Passage Mode switch toggled to 0
+[INFO] 成功点击设备 "pixel9测试"
+[2025-07-25 09:40:35][INFO] 点击设置按钮
+[2025-07-25 09:40:36][INFO] 点击进入Passage Mode
+[2025-07-25 09:40:41][INFO] 正在检查通道锁模式 - 取消
+[2025-07-25 09:40:46][INFO] Passage Mode switch found after restart
+[2025-07-25 09:40:46][INFO] Passage Mode取消成功并保持状态
+[2025-07-25 09:40:46][INFO] 完成第 2 次循环测试

@@ -1,0 +1,13 @@
+[2025-07-25 08:30:28][INFO] 开始测试切换WiFi网络 - 设备: pixel9测试, SSID: desloc_testingwifi_TPLink_w7MLO
+[INFO] 成功点击设备 "pixel9测试"
+[2025-07-25 08:30:46][INFO] 点击设置按钮
+[2025-07-25 08:30:48][INFO] 点击通用设置选项
+[2025-07-25 08:30:51][INFO] 点击WiFi设置选项
+[2025-07-25 08:30:51][INFO] 已进入WiFi设置页面
+[2025-07-25 08:30:52][INFO] 点击WiFi更改按钮
+[2025-07-25 08:30:57][INFO] 输入WiFi SSID: desloc_testingwifi_TPLink_w7MLO
+[2025-07-25 08:31:00][INFO] 输入WiFi密码
+[2025-07-25 08:31:02][INFO] 点击文字"Wi-Fi Connection"退出键盘
+[2025-07-25 08:31:04][INFO] 键盘已收回
+[2025-07-25 08:31:07][INFO] 点击WiFi连接按钮
+[2025-07-25 08:31:51][INFO] WiFi连接成功

@@ -1,0 +1,13 @@
+[2025-07-25 08:43:09][INFO] 开始测试切换WiFi网络 - 设备: pixel9测试, SSID: desloc_testingwifi_asus Guest
+[INFO] 成功点击设备 "pixel9测试"
+[2025-07-25 08:43:27][INFO] 点击设置按钮
+[2025-07-25 08:43:29][INFO] 点击通用设置选项
+[2025-07-25 08:43:31][INFO] 点击WiFi设置选项
+[2025-07-25 08:43:31][INFO] 已进入WiFi设置页面
+[2025-07-25 08:43:32][INFO] 点击WiFi更改按钮
+[2025-07-25 08:43:36][INFO] 输入WiFi SSID: desloc_testingwifi_asus Guest
+[2025-07-25 08:43:39][INFO] 输入WiFi密码
+[2025-07-25 08:43:40][INFO] 点击文字"Wi-Fi Connection"退出键盘
+[2025-07-25 08:43:42][INFO] 键盘已收回
+[2025-07-25 08:43:44][INFO] 点击WiFi连接按钮
+[2025-07-25 08:44:11][INFO] WiFi连接成功

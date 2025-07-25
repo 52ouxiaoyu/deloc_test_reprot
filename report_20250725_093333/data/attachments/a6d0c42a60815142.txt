@@ -1,0 +1,36 @@
+正在启动测试，平台: Android, 设备: android_google_Pixel9, 端口: 4729
+设备配置: {'platformName': 'Android', 'appium:automationName': 'UiAutomator2', 'appium:udid': '47121FDAS006K5', 'appium:deviceName': '47121FDAS006K5', 'appium:platformVersion': '15', 'appium:appPackage': 'com.desman.desloc', 'appium:appActivity': '.biz.splash.SplashActivity', 'appium:noReset': True, 'appium:newCommandTimeout': 60, 'appium:autoGrantPermissions': True}
+正在连接 Appium 服务器 (端口: 4729)...
+成功连接到 Appium 服务器
+[2025-07-25 09:33:36][INFO] 开始第 1 次循环测试
+[2025-07-25 09:33:36][INFO] 正在设置通道锁模式
+[INFO] 成功点击设备 "pixel9测试"
+[2025-07-25 09:34:00][INFO] 点击设置按钮
+[2025-07-25 09:34:01][INFO] 点击进入Passage Mode
+[2025-07-25 09:34:06][DEBUG] 开关元素selected属性: false
+[2025-07-25 09:34:06][INFO] 当前Passage Mode开关状态: 0
+[2025-07-25 09:34:06][INFO] 点击Passage Mode开关 - 开启模式
+[2025-07-25 09:34:27][DEBUG] Android开关selected属性: true, 转换后的值: 1
+[2025-07-25 09:34:27][INFO] Passage Mode switch toggled to 1
+[INFO] 成功点击设备 "pixel9测试"
+[2025-07-25 09:35:07][INFO] 点击设置按钮
+[2025-07-25 09:35:09][INFO] 点击进入Passage Mode
+[2025-07-25 09:35:14][INFO] 正在检查通道锁模式 - 设置
+[2025-07-25 09:35:19][INFO] Passage Mode switch found after restart
+[2025-07-25 09:35:19][INFO] Passage Mode设置成功并保持状态
+[2025-07-25 09:35:19][INFO] 正在取消通道锁模式
+[INFO] 成功点击设备 "pixel9测试"
+[2025-07-25 09:35:40][INFO] 点击设置按钮
+[2025-07-25 09:35:41][INFO] 点击进入Passage Mode
+[2025-07-25 09:35:46][DEBUG] 开关元素selected属性: true
+[2025-07-25 09:35:46][INFO] 当前Passage Mode开关状态: 1
+[2025-07-25 09:35:47][INFO] 点击Passage Mode开关 - 关闭模式
+[2025-07-25 09:36:10][DEBUG] Android开关selected属性: false, 转换后的值: 0
+[2025-07-25 09:36:10][INFO] Passage Mode switch toggled to 0
+[INFO] 成功点击设备 "pixel9测试"
+[2025-07-25 09:36:50][INFO] 点击设置按钮
+[2025-07-25 09:36:52][INFO] 点击进入Passage Mode
+[2025-07-25 09:36:57][INFO] 正在检查通道锁模式 - 取消
+[2025-07-25 09:37:02][INFO] Passage Mode switch found after restart
+[2025-07-25 09:37:02][INFO] Passage Mode取消成功并保持状态
+[2025-07-25 09:37:02][INFO] 完成第 1 次循环测试

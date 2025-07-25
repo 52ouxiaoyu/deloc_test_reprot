@@ -1,0 +1,13 @@
+[2025-07-25 09:17:45][INFO] 开始测试切换WiFi网络 - 设备: pixel9测试, SSID: desloc_testingwifi_eero Guest
+[INFO] 成功点击设备 "pixel9测试"
+[2025-07-25 09:18:06][INFO] 点击设置按钮
+[2025-07-25 09:18:08][INFO] 点击通用设置选项
+[2025-07-25 09:18:09][INFO] 点击WiFi设置选项
+[2025-07-25 09:18:10][INFO] 已进入WiFi设置页面
+[2025-07-25 09:18:12][INFO] 点击WiFi更改按钮
+[2025-07-25 09:18:16][INFO] 输入WiFi SSID: desloc_testingwifi_eero Guest
+[2025-07-25 09:18:18][INFO] 输入WiFi密码
+[2025-07-25 09:18:20][INFO] 点击文字"Wi-Fi Connection"退出键盘
+[2025-07-25 09:18:22][INFO] 键盘已收回
+[2025-07-25 09:18:24][INFO] 点击WiFi连接按钮
+[2025-07-25 09:19:02][INFO] WiFi连接成功

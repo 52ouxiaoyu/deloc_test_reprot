@@ -1,0 +1,17 @@
+正在启动测试，平台: Android, 设备: android_google_Pixel9, 端口: 4729
+设备配置: {'platformName': 'Android', 'appium:automationName': 'UiAutomator2', 'appium:udid': '47121FDAS006K5', 'appium:deviceName': '47121FDAS006K5', 'appium:platformVersion': '15', 'appium:appPackage': 'com.desman.desloc', 'appium:appActivity': '.biz.splash.SplashActivity', 'appium:noReset': True, 'appium:newCommandTimeout': 60, 'appium:autoGrantPermissions': True}
+正在连接 Appium 服务器 (端口: 4729)...
+成功连接到 Appium 服务器
+[2025-07-25 08:29:04][INFO] 开始测试切换WiFi网络 - 设备: pixel9测试, SSID: desloc_testingwifi_TP-Link_wifi7
+[INFO] 成功点击设备 "pixel9测试"
+[2025-07-25 08:29:23][INFO] 点击设置按钮
+[2025-07-25 08:29:25][INFO] 点击通用设置选项
+[2025-07-25 08:29:26][INFO] 点击WiFi设置选项
+[2025-07-25 08:29:28][INFO] 已进入WiFi设置页面
+[2025-07-25 08:29:28][INFO] 点击WiFi更改按钮
+[2025-07-25 08:29:32][INFO] 输入WiFi SSID: desloc_testingwifi_TP-Link_wifi7
+[2025-07-25 08:29:35][INFO] 输入WiFi密码
+[2025-07-25 08:29:36][INFO] 点击文字"Wi-Fi Connection"退出键盘
+[2025-07-25 08:29:38][INFO] 键盘已收回
+[2025-07-25 08:29:41][INFO] 点击WiFi连接按钮
+[2025-07-25 08:30:12][INFO] WiFi连接成功

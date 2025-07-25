@@ -1,0 +1,3 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"循环测试Passage Mode开启和关闭","206106","test_passage_mode_cycle[0]","tests","Fri Jul 25 09:33:36 CST 2025","passed","Fri Jul 25 09:37:02 CST 2025","","test_set_passage_mode","",""
+"循环测试Passage Mode开启和关闭","213772","test_passage_mode_cycle[1]","tests","Fri Jul 25 09:37:12 CST 2025","passed","Fri Jul 25 09:40:46 CST 2025","","test_set_passage_mode","",""

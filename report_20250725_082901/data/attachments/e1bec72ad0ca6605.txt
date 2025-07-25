@@ -1,0 +1,13 @@
+[2025-07-25 08:55:38][INFO] 开始测试切换WiFi网络 - 设备: pixel9测试, SSID: desloc_testingwifi_tplink IOT
+[INFO] 成功点击设备 "pixel9测试"
+[2025-07-25 08:55:56][INFO] 点击设置按钮
+[2025-07-25 08:55:59][INFO] 点击通用设置选项
+[2025-07-25 08:56:00][INFO] 点击WiFi设置选项
+[2025-07-25 08:56:01][INFO] 已进入WiFi设置页面
+[2025-07-25 08:56:03][INFO] 点击WiFi更改按钮
+[2025-07-25 08:56:07][INFO] 输入WiFi SSID: desloc_testingwifi_tplink IOT
+[2025-07-25 08:56:10][INFO] 输入WiFi密码
+[2025-07-25 08:56:11][INFO] 点击文字"Wi-Fi Connection"退出键盘
+[2025-07-25 08:56:13][INFO] 键盘已收回
+[2025-07-25 08:56:15][INFO] 点击WiFi连接按钮
+[2025-07-25 08:56:48][INFO] WiFi连接成功
